@@ -17,9 +17,9 @@ class MyApp extends StatelessWidget {
           appBar: AppBar(
             // AppBar takes a Text Widget
             // in it's title parameter
-            title: const Text('My First 1 Flutter App'),
+            title: const Text('Boom My First Flutter App'),
           ),
-          body: const Center(child: Text('Hello World')),
+          body: const Center(child: Text('Hello World!')),
         ));
   }
 }
